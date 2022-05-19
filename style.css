@@ -1,0 +1,154 @@
+
+.titre
+{
+	color: white;
+	font-family: Rockwell Nova;
+	border: 200px solid transparent;
+	font-size: 300%;
+	font-style: oblique;
+	text-shadow: black 5px  5px 0;
+	text-align: center;
+	
+}
+
+.menu
+{	
+	padding-left: 20px;
+	width:20%;
+	position: static;
+	background: rgb(41, 64, 97);
+	height: fit-content;
+	border-right: 4 solid rgba(3, 10, 20, 0.911);
+	background-image: linear-gradient(to bottom, rgba(53, 87, 134, 0.781), rgba(15, 15, 46, 0.466));
+	border:15px solid black;
+	
+	
+		
+}
+div h2
+{
+    padding: 0px 0 0 0;
+    font-size: 65px;
+	font-family: Rockwell Nova;
+	
+}
+
+header
+{	
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(to bottom, rgba(6, 19, 37, 0.5), rgba(80, 80, 128, 0.5)), url("banner4.webp");
+	height: 25%;
+	width: 98.8%;
+	border: 20px outset rgba(3, 10, 20, 0.76);
+
+
+}
+body
+{
+	background-color:rgb(10, 25, 49);
+	background-image: linear-gradient(to bottom, rgba(34, 52, 78, 0.781), rgb(4, 4, 19));
+	min-height: 200vh;
+}
+.liens a:any-link
+{
+	font-size: 60px;
+    padding-left: 0px;
+    outline: none;
+	color: rgb(0, 0, 0);
+	text-decoration-color: black;
+	text-align: center;
+	
+}
+
+.liens :hover
+{
+	color: rgb(0, 0, 0);
+	background: rgba(42, 37, 94, 0.801);
+	position: relative;
+	cursor: pointer;
+}
+
+button
+{
+	text-decoration: none;
+	font-size: 20px;
+	background-color: rgba(104, 120, 143, 0);
+	border-bottom: 10px;
+	border: transparent;
+	font-size: 45px;
+	border-bottom: 1px solid transparent;
+
+}
+
+h3
+{
+	margin-left: 23%;
+	margin-top: -27%;
+	font-size: 80px;
+	font-family: Rockwell Nova;
+	color: antiquewhite;
+	text-shadow:black 5px  10px 10px;
+	position: static;
+
+	
+}
+
+.intro
+{
+	box-sizing: content-box;
+	border: 10px solid black;
+	margin-left: 23%;
+	text-align: left;
+	padding: 1%;
+	background-color: rgba(34, 52, 78, 0.781);
+}
+
+.art_1
+{
+	text-align: left;
+	font-size: 250%;
+	color: beige;
+	
+}
+
+.img_1
+{
+	border: 10px solid black;
+
+}
+
+.h3_2
+{
+	margin-top: auto;
+}
+
+.h3_3
+{
+	margin-top: auto;
+}
+
+.img_centre
+{
+	margin-left: 13%;
+	border: 10px solid black;
+}
+
+.img_algoA
+{
+	margin-left: 33%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	border: 10px solid black;
+}
+
+.iframe_1
+{
+	margin-left: 25%;
+}
+
+.iframe_2
+{
+	margin-left: 7%;
+}
